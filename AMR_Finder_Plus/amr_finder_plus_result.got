@@ -1,0 +1,3 @@
+Protein identifier	Contig id	Start	Stop	Strand	Gene symbol	Sequence name	Scope	Element type	Element subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference sequence	% Identity to reference sequence	Alignment length	Accession of closest sequence	Name of closest sequence	HMM id	HMM description
+NA	2	138154	139368	+	mef(A)	macrolide efflux MFS transporter Mef(A)	core	AMR	AMR	MACROLIDE	ERYTHROMYCIN	EXACTX	405	405	100.00	100.00	405	WP_058621816.1	macrolide efflux MFS transporter Mef(A)	NA	NA
+NA	2	139492	140952	+	msr(D)	ABC-F type ribosomal protection protein Msr(D)	core	AMR	AMR	MACROLIDE	ERYTHROMYCIN	BLASTX	487	487	100.00	91.38	487	WP_000420313.1	ABC-F type ribosomal protection protein Msr(D)	NA	NA

@@ -1,0 +1,3 @@
+Isolate ID	Gene	Predicted Phenotype	Type	Position	Mutation	%Identity	%Overlap	HSP Length/Total Length	Contig	Start	End	Pointfinder Position
+GCF_001931595.1	gyrA (D87Y)	ciprofloxacin I/R, nalidixic acid	codon	87	GAC -> TAC (D -> Y)	99.43	100.00	2637/2637	ref|NZ_CP016410.1|	1597907	1600543	D87Y
+GCF_001931595.1	parC (T57S)	None	codon	57	ACC -> AGC (T -> S)	98.27	100.00	2259/2259	ref|NZ_CP016410.1|	3809941	3807683	T57S

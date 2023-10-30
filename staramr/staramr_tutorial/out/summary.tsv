@@ -1,0 +1,2 @@
+Isolate ID	Quality Module	Genotype	Predicted Phenotype	Plasmid	Scheme	Sequence Type	Genome Length	N50 value	Number of Contigs Greater Than Or Equal To 300 bp	Quality Module Feedback
+GCF_001931595.1	Passed	aac(3)-IV, aph(3')-Ia, aph(4)-Ia, blaCTX-M-65, dfrA14, floR, gyrA (D87Y), parC (T57S), sul1, tet(A)	gentamicin, tobramycin, kanamycin, hygromycin, ampicillin, ceftriaxone, trimethoprim, chloramphenicol, ciprofloxacin I/R, nalidixic acid, sulfisoxazole, tetracycline	IncFIB(pN55391)	senterica_achtman_2	32	5043928	4727114	2	
