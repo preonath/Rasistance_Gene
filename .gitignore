@@ -451,3 +451,5 @@ Problem_with_Puspita/
 Rasistance_Gene/
 Single_cell/
 
+*.log
+*.tmp
